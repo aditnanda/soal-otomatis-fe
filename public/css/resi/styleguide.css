@@ -1,0 +1,24 @@
+:root {
+    --black: #000000;
+    --monsoon: #898989;
+
+    --font-size-m: 11px;
+    --font-size-s: 10px;
+
+    --font-family-sora: "Sora", Helvetica;
+  }
+  .sora-normal-monsoon-11px {
+    color: var(--monsoon);
+    font-family: var(--font-family-sora);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .sora-semi-bold-monsoon-11px {
+    color: var(--monsoon);
+    font-family: var(--font-family-sora);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 600;
+  }

@@ -1,0 +1,293 @@
+/* screen - index */
+
+.index {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border: 1px none;
+    display: flex;
+    height: 386px;
+    overflow: hidden;
+    width: 332px;
+  }
+
+  .index .line-5 {
+    margin-left: -6179px;
+  }
+
+  .index .line {
+    margin-left: 2px;
+  }
+
+  .index .flex-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 6125px;
+    margin-top: 21px;
+    min-height: 346px;
+    width: 332px;
+  }
+
+  .index .koperasi-ksbb-01-1 {
+    height: 35px;
+    object-fit: cover;
+    width: 78px;
+  }
+
+  .index .vector-216 {
+    margin-top: 20px;
+  }
+
+  .index .overlap-group2 {
+    height: 42px;
+    margin-top: 14px;
+    position: relative;
+    width: 268px;
+  }
+
+  .index .transaksi {
+    height: 26px;
+    left: 0;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+
+  .index .address {
+    height: 26px;
+    left: 133px;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    white-space: nowrap;
+  }
+
+  .index .phone {
+    height: 26px;
+    left: 192px;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 16px;
+    white-space: nowrap;
+  }
+
+  .index .nomor-transaksi {
+    height: 14px;
+    left: 0;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+    width: 139px;
+  }
+
+  .index .overlap-group5 {
+    height: 71px;
+    margin-top: 14px;
+    position: relative;
+    width: 332px;
+  }
+
+  .index .mask-group {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 332px;
+  }
+
+  .index .group-212 {
+    gap: 5px;
+    height: 44px;
+    left: 32px;
+    position: absolute;
+    top: 14px;
+  }
+
+  .index .overlap-group1 {
+    align-self: flex-end;
+    height: 43px;
+    position: relative;
+    width: 127px;
+  }
+
+  .index .jumlah {
+    left: 0;
+    letter-spacing: -0.35px;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 127px;
+  }
+
+  .index .sumber-dana {
+    left: 0;
+    letter-spacing: -0.35px;
+    line-height: 26px;
+    position: absolute;
+    top: 16px;
+    white-space: nowrap;
+    width: 127px;
+  }
+
+  .index .overlap-group {
+    height: 43px;
+    position: relative;
+    width: 136px;
+  }
+
+  .index .price {
+    left: 0;
+    letter-spacing: -0.35px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    white-space: nowrap;
+    width: 136px;
+  }
+
+  .index .tabungan-umum {
+    left: 0;
+    letter-spacing: -0.35px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 16px;
+    white-space: nowrap;
+    width: 136px;
+  }
+
+  .index .vector-217 {
+    left: 0;
+    position: absolute;
+    top: 70px;
+  }
+
+  .index .vector-219 {
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+
+  .index .group-213 {
+    gap: 21px;
+    margin-left: 8.0px;
+    margin-top: 14px;
+  }
+
+  .index .overlap-group4 {
+    height: 36px;
+    position: relative;
+    width: 139px;
+  }
+
+  .index .keterangan {
+    height: 14px;
+    left: 0;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    top: 22px;
+    white-space: nowrap;
+    width: 139px;
+  }
+
+  .index .overlap-group3 {
+    height: 42px;
+    position: relative;
+    width: 108px;
+  }
+
+  .index .penarikan-tabungan {
+    height: 26px;
+    left: 0;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 0;
+    white-space: nowrap;
+  }
+
+  .index .text-1 {
+    height: 26px;
+    left: 102px;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 16px;
+    white-space: nowrap;
+  }
+
+  .index .vector-218 {
+    margin-top: 14px;
+  }
+
+  .index .terima-kasih-telah-m {
+    color: var(--monsoon);
+    font-family: var(--font-family-sora);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    height: 26px;
+    letter-spacing: -0.25px;
+    line-height: 26px;
+    margin-right: 1.0px;
+    margin-top: 10px;
+    min-width: 233px;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .index .koperasi-ksbb-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 15px;
+    margin-top: 17px;
+    min-width: 332px;
+  }
+
+  .index .koperasi-ksbb-01-2 {
+    height: 27px;
+    object-fit: cover;
+    width: 48px;
+  }
+
+  .index .koperasi-ksbb-01 {
+    height: 27px;
+    object-fit: cover;
+    width: 60px;
+  }
+
+  .index .koperasi-ksbb-01-6 {
+    height: 27px;
+    object-fit: cover;
+    width: 44px;
+  }
+
+  .index .group {
+    align-items: flex-start;
+    display: flex;
+    min-width: 276px;
+  }
+
+  .index .line-1 {
+    height: 1px;
+    margin-top: -2658px;
+    width: 12px;
+  }
+
+  .index .vector {
+    height: 1px;
+    object-fit: cover;
+    width: 332px;
+  }
